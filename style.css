@@ -77,7 +77,6 @@ a,
     flex-shrink: 0;
     width: 500px;
     height: 250px;
-
     border-radius: 20px;
 }
 
@@ -121,3 +120,23 @@ a,
     align-items: center;
     text-align: center;
 }
+
+.goals-descriprion img {
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+    border-radius: 12px;
+}
+
+#rfkinetix img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: left;
+}
+
+#coleman img {
+    object-fit: cover;
+    object-position: top;
+}
+
