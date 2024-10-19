@@ -155,3 +155,20 @@ a,
     font-weight: 800;
     font-size: 20px;
 }
+
+.call_to_action {
+    background-color: #3882F6;
+    color: white;
+    margin: 100px 14%;
+    padding: 50px 120px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call_button {
+    border-radius: 15px;
+    border: 2px solid white;
+    padding: 8px 30px;
+}
