@@ -103,14 +103,11 @@ a,
     padding: 40px;
 }
 
-.goals-section {
-    height: 500px;
-}
-
 .goals-descriprion {
     display: flex;
     padding: 0 15%;
     gap:50px;
+    margin-bottom: 100px;
 }
 
 .goal_type {
@@ -140,3 +137,21 @@ a,
     object-position: top;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 120px 15%;
+    gap: 15px;
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.quote div{
+    align-self: flex-end;
+    font-weight: 800;
+    font-size: 20px;
+}
