@@ -172,3 +172,13 @@ a,
     border: 2px solid white;
     padding: 8px 30px;
 }
+
+.footer {
+    background-color:#1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-weight: 700;
+}
